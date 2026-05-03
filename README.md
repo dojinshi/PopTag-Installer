@@ -7,7 +7,7 @@ PopTag! (also known as Crazy Arcade) was a free-to-play, 2D browser-based online
 3. Open CA.exe to launch.
 # FAQ
 1. How do I play?
-Navigate over to https://poptag.online/ to create an account. Once created, you can log into the servers.
+   Navigate over to https://poptag.online/ to create an account. Once created, you can log into the servers.
 
 2. I need help! I ran into a bug and I cannot figure it out. What should I do?
-Join our discord and ask for help! https://discord.gg/8PASev7QHK!
+   Join our discord and ask for help! https://discord.gg/8PASev7QHK!
