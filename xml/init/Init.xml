@@ -1,0 +1,11 @@
+<init>
+	<nation name="english"/>
+	<info name="shop" attr0="1"/>
+	<info name="square" attr0="1"/>
+	<info name="quest" attr0="1"/>
+	<info name="mypage" attr0="1"/>
+	<info name="market" attr0="1"/>
+	<info name="coupon" attr0="1"/>
+	<info name="basket" attr0="1"/>
+	<info name="tournament" attr0="1"/>
+</init>
