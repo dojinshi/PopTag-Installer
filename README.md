@@ -6,8 +6,8 @@ Welcome to the PopTag Installer!
 2. Unzip folder using your choice of an unzipping agent (WinRAR, 7Zip, or just Windows' default unzipper)
 3. Open CA.exe to launch.
 # FAQ
-1. How do I play?
+### 1. <b>How do I play?</b>
 <br />Navigate over to https://poptag.online/ to create an account. Once created, you can log into the servers.
 
-2. I need help! I ran into a bug and I cannot figure it out. What should I do?
+### 2. <b>I need help! I ran into a bug and I cannot figure it out. What should I do?</b>
 <br />Join our discord and ask for help! https://discord.gg/8PASev7QHK!
