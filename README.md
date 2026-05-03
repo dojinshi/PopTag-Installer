@@ -1,11 +1,11 @@
 # Welcome to PopTag! 🎈
 Welcome to the PopTag Installer!
 <br />PopTag! (also known as Crazy Arcade) was a free-to-play, 2D browser-based online arcade game published by Nexon, released in 2010 as the North American version of "Crazy Arcade BnB". It originially shut down in July 2011, due to "multiple factors including the inability to deliver new content regularly due to the limited resources available for the game".
-## Installation Steps
+## Installation Steps 🛠️
 1. Download .zip file from Releases
 2. Unzip folder using your choice of an unzipping agent (WinRAR, 7Zip, or just Windows' default unzipper)
 3. Open CA.exe to launch.
-# FAQ
+# FAQ 🗒️
 ### 1. <b>How do I play?</b>
 Navigate over to https://poptag.online/ to create an account. Once created, you can log into the servers.
 
